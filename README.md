@@ -1,5 +1,8 @@
 # Starter Kit
 
+
+클로드로 생성한 next.js 기반 starter kit
+
 Next.js 15 (App Router) 기반의 웹 개발 스타터킷입니다.
 
 ## 기술 스택
